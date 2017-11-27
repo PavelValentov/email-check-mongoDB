@@ -1,0 +1,19 @@
+{
+  "name": "email-check-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pavel Valentov",
+  "license": "MIT",
+  "dependencies": {
+    "email-check": "^1.1.0",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^2.2.15",
+    "@types/node": "^8.0.53"
+  }
+}
